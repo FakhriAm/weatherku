@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherKu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today">Today</string>
+    <string name="bandung">Bandung</string>
+    <string name="tangerang">Tangerang</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="check_your_internet_connection">Coba cek koneksi internetmu!</string>
+    <string name="retry">Coba lagi</string>
+    <string name="server_down">Server mungkin sedang gangguan , coba beberapa saat lagi</string>
+    <string name="something_wrong">Terjadi kesalahan , coba beberapas aat lagi</string>
+
+</resources>
